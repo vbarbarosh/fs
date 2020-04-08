@@ -1,0 +1,31 @@
+{
+    "name": "@vbarbarosh/fs",
+    "author": "Vladimir Barbarosh",
+    "version": "0.0.0",
+    "description": "A thin wrappers for Node's fs module",
+    "license": "ISC",
+    "files": [
+        "src"
+    ],
+    "exports": {
+        "./foo/": "./src/"
+    },
+    "keywords": [
+        "fs",
+        "path",
+        "tempdir"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vbarbarosh/fs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vbarbarosh/fs/issues"
+    },
+    "homepage": "https://fs.vbarbarosh.com",
+    "peerDependencies": {
+        "bluebird": "^3.7.2",
+        "json-stable-stringify": "^1.0.1",
+        "sanitize-filename": "^1.6.3"
+    }
+}
