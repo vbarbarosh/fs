@@ -1,5 +1,5 @@
 {
-    "name": "@vbarbarosh/fs",
+    "name": "@vbarbarosh/node-fs",
     "author": "Vladimir Barbarosh",
     "version": "0.0.0",
     "description": "A thin wrappers for Node's fs module",
@@ -17,12 +17,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vbarbarosh/fs.git"
+        "url": "git+https://github.com/vbarbarosh/node-fs.git"
     },
     "bugs": {
-        "url": "https://github.com/vbarbarosh/fs/issues"
+        "url": "https://github.com/vbarbarosh/node-fs/issues"
     },
-    "homepage": "https://fs.vbarbarosh.com",
+    "homepage": "https://github.com/vbarbarosh/node-fs/issues",
     "peerDependencies": {
         "bluebird": "^3.7.2",
         "json-stable-stringify": "^1.0.1",
