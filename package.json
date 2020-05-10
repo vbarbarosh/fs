@@ -4,13 +4,9 @@
     "version": "0.0.0",
     "description": "A thin wrappers for Node's fs module",
     "license": "ISC",
-    "type": "module",
     "files": [
         "src"
     ],
-    "exports": {
-        "./foo/": "./src/"
-    },
     "keywords": [
         "fs",
         "path",
